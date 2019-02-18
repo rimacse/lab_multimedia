@@ -1,0 +1,6 @@
+Ubuntu studio Tour:
+
+Ubuntu Studio is Free and Open Source Software, which means it is free to download and use. 
+We can get the source code, study it and modify it. This feature is mainly a linux based system. 
+Using Ubuntu Studio we can create, edit different multimedia file like audio, video, animation, photography and many other
+things. There has many version of ubuntu studio since Jan 2019
